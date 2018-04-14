@@ -1,4 +1,4 @@
-# Integrando o uso de Python e R
+# Integrando o uso de Python e Rmarkdown
 
 Este é o output!!
 
@@ -10,3 +10,12 @@ system("python CodigoTestePython.py")
 Após isso, basta introduzir a imagem com o comando `![descrição da imagem](local da imagem)` que irá aparecer como no exemplo:
 
 ![](foo.png)
+
+Para mais informações sobre Rmarkdown essas cheatsheets podem ajudar:
+
+  * [rmarkdown-cheatsheet-1](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+  * [rmarkdown-cheatsheet-2](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+  
+  Além do [guia de referência](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+  
+  
