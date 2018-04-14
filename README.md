@@ -1,2 +1,9 @@
-# pythoon-Rmarkdown
-Teste simples para integrar o uso das duas linguagens
+# Integrando o uso de Python e R
+
+Este é o output
+```{r}
+system("python CodigoTestePython.py")
+```
+
+
+![](foo.png)
